@@ -1,0 +1,417 @@
+Position,Finish time,Number,First name,Last name,Full Name,Chip time,Club,Club Position,Gender,Gender position,Chip gender position,Category,Gender Category,Category position,Chip category position,Event,Chip Time Seconds
+1,00:15:11,490,Thomas,Charles,Thomas Charles,00:15:11,Chorlton Runners,1,Male,1,1,Senior Male (20-39),Male Senior (20-39),1,1,Sale Sizzler 1,911
+2,00:15:26,125,Ryan,Moore,Ryan Moore,00:15:26,Vale Royal AC,1,Male,2,2,Senior Male (20-39),Male Senior (20-39),2,2,Sale Sizzler 1,926
+3,00:15:29,498,Martin,Clark,Martin Clark,00:15:28,Bury Athletic Club,1,Male,3,3,Senior Male (20-39),Male Senior (20-39),3,3,Sale Sizzler 1,928
+4,00:15:34,487,Harry,Johnson,Harry Johnson,00:15:33,Halifax Harriers & AC,1,Male,4,4,Senior Male (20-39),Male Senior (20-39),4,4,Sale Sizzler 1,933
+5,00:15:59,183,Paul,Peters,Paul Peters,00:15:58,Sale Harriers Manchester,1,Male,5,5,Senior Male (20-39),Male Senior (20-39),5,5,Sale Sizzler 1,958
+6,00:16:05,197,Finlay,Goddard,Finlay Goddard,00:16:04,Sale Harriers Manchester,2,Male,6,6,Under 20,Male Under 20,1,1,Sale Sizzler 1,964
+7,00:16:05,679,George,Noble,George Noble,00:16:04,Sale Harriers Manchester,3,Male,7,7,Under 20,Male Under 20,2,2,Sale Sizzler 1,964
+8,00:16:08,455,Jacob,Wood-Doyle,Jacob Wood-Doyle,00:16:07,Stockport Harriers & AC,1,Male,8,8,Senior Male (20-39),Male Senior (20-39),6,6,Sale Sizzler 1,967
+9,00:16:10,483,Tommy,Harrison,Tommy Harrison,00:16:08,Bolton United Harriers & AC,1,Male,9,9,Senior Male (20-39),Male Senior (20-39),7,7,Sale Sizzler 1,968
+10,00:16:13,646,Harry,Hind,Harry Hind,00:16:11,East Cheshire Harriers & Tameside AC,1,Male,10,10,Senior Male (20-39),Male Senior (20-39),8,8,Sale Sizzler 1,971
+11,00:16:20,476,Paul,Bannister,Paul Bannister,00:16:20,Salford Harriers & AC,1,Male,11,11,Senior Male (20-39),Male Senior (20-39),9,9,Sale Sizzler 1,980
+12,00:16:26,629,Sonny,Wilson,Sonny Wilson,00:16:25,Trafford Athletic Club,1,Male,12,12,Under 20,Male Under 20,3,3,Sale Sizzler 1,985
+13,00:16:28,456,Tom,Stephenson,Tom Stephenson,00:16:26,Sale Harriers Manchester,4,Male,13,13,Vet 40,Male Vet 40,1,1,Sale Sizzler 1,986
+14,00:16:29,138,Martin,Swensson,Martin Swensson,00:16:27,Penny Lane Striders,1,Male,14,14,Vet 45,Male Vet 45,1,1,Sale Sizzler 1,987
+15,00:16:35,112,Khaleb,Djesa,Khaleb Djesa,00:16:35,Salford Metropolitan AC,1,Male,15,16,Senior Male (20-39),Male Senior (20-39),10,10,Sale Sizzler 1,995
+16,00:16:37,686,Mark,Crabtree,Mark Crabtree,00:16:34,Vale Royal AC,2,Male,16,15,Vet 40,Male Vet 40,2,2,Sale Sizzler 1,994
+17,00:16:37,669,Alex,Whittem,Alex Whittem,00:16:36,Calder Valley Fell Runners,1,Male,17,18,Vet 40,Male Vet 40,3,3,Sale Sizzler 1,996
+18,00:16:39,605,Matthew,Gawne,Matthew Gawne,00:16:36,Altrincham & District Athletic Club Limited,1,Male,18,17,Senior Male (20-39),Male Senior (20-39),11,11,Sale Sizzler 1,996
+19,00:16:41,482,Simon,Mcconville,Simon Mcconville,00:16:39,Stockport Harriers & AC,2,Male,19,19,Senior Male (20-39),Male Senior (20-39),12,12,Sale Sizzler 1,999
+20,00:16:44,192,Naeem,Stevens,Naeem Stevens,00:16:41,Steel City Striders RC,1,Male,20,20,Senior Male (20-39),Male Senior (20-39),13,13,Sale Sizzler 1,1001
+21,00:16:45,703,Robin,Hulme,Robin Hulme,00:16:43,Bramhall Runners,1,Male,21,22,Senior Male (20-39),Male Senior (20-39),14,15,Sale Sizzler 1,1003
+22,00:16:45,215,Charlie,Harding,Charlie Harding,00:16:42,Rochdale Harriers & AC,1,Male,22,21,Senior Male (20-39),Male Senior (20-39),15,14,Sale Sizzler 1,1002
+23,00:16:48,499,Daniel,Bennett,Daniel Bennett,00:16:48,Rochdale Harriers & AC,2,Male,23,23,Vet 50,Male Vet 50,1,1,Sale Sizzler 1,1008
+24,00:16:51,108,Lee,Peake,Lee Peake,00:16:49,Wigan & District H & AC,1,Male,24,24,Vet 40,Male Vet 40,4,4,Sale Sizzler 1,1009
+25,00:16:59,119,Joshua,Andrew,Joshua Andrew,00:16:57,Wigan & District H & AC,2,Male,25,25,Senior Male (20-39),Male Senior (20-39),16,16,Sale Sizzler 1,1017
+26,00:17:02,684,Alex,Bradley,Alex Bradley,00:17:00,Unaffiliated,26,Male,26,27,Senior Male (20-39),Male Senior (20-39),17,17,Sale Sizzler 1,1020
+27,00:17:03,656,Daniel,Orrell,Daniel Orrell,00:16:59,Wigan Phoenix,1,Male,27,26,Vet 45,Male Vet 45,2,2,Sale Sizzler 1,1019
+28,00:17:04,137,Iain,Murdoch,Iain Murdoch,00:17:01,Stockport Harriers & AC,3,Male,28,28,Vet 45,Male Vet 45,3,3,Sale Sizzler 1,1021
+29,00:17:06,635,Matt,Holmes,Matt Holmes,00:17:04,Red Rose Road Runners,1,Male,29,30,Senior Male (20-39),Male Senior (20-39),18,19,Sale Sizzler 1,1024
+30,00:17:07,202,Ben,Rees,Ben Rees,00:17:01,Sale Harriers Manchester,5,Male,30,29,Senior Male (20-39),Male Senior (20-39),19,18,Sale Sizzler 1,1021
+31,00:17:08,235,Andy,Pickford,Andy Pickford,00:17:05,Altrincham & District Athletic Club Limited,2,Male,31,32,Vet 45,Male Vet 45,4,4,Sale Sizzler 1,1025
+32,00:17:10,236,Michael,Heaney,Michael Heaney,00:17:05,Salford Harriers & AC,1,Male,32,31,Vet 40,Male Vet 40,5,5,Sale Sizzler 1,1025
+33,00:17:11,563,Paul,Richardson,Paul Richardson,00:17:07,Unaffiliated,33,Male,33,33,Senior Male (20-39),Male Senior (20-39),20,20,Sale Sizzler 1,1027
+34,00:17:12,504,Stuart,Doyle,Stuart Doyle,00:17:11,Vale Royal AC,3,Male,34,36,Vet 50,Male Vet 50,2,2,Sale Sizzler 1,1031
+35,00:17:13,489,Thomas,Rogers,Thomas Rogers,00:17:11,Belle Vue Racers,1,Male,35,35,Senior Male (20-39),Male Senior (20-39),21,22,Sale Sizzler 1,1031
+36,00:17:14,581,Ben,Farrelly,Ben Farrelly,00:17:12,Salford Metropolitan AC,2,Male,36,39,Vet 40,Male Vet 40,6,6,Sale Sizzler 1,1032
+37,00:17:17,722,Sean,Connon,Sean Connon,00:17:12,Chorlton Runners,2,Male,37,38,Senior Male (20-39),Male Senior (20-39),22,24,Sale Sizzler 1,1032
+38,00:17:17,699,Gareth,Turner,Gareth Turner,00:17:12,Chorlton Runners,3,Male,38,37,Senior Male (20-39),Male Senior (20-39),23,23,Sale Sizzler 1,1032
+39,00:17:17,240,Meng Chong,Leong,Meng Chong Leong,00:17:10,Didsbury Runners,1,Male,39,34,Senior Male (20-39),Male Senior (20-39),24,21,Sale Sizzler 1,1030
+40,00:17:18,637,Andrew,Bromley,Andrew Bromley,00:17:15,Wallasey Athletic Club,1,Male,40,40,Senior Male (20-39),Male Senior (20-39),25,25,Sale Sizzler 1,1035
+41,00:17:18,141,Neil,Taylor,Neil Taylor,00:17:16,Stockport Harriers & AC,4,Male,41,42,Vet 45,Male Vet 45,5,5,Sale Sizzler 1,1036
+42,00:17:19,657,Abigail,Howarth,Abigail Howarth,00:17:17,Vale Royal AC,4,Female,1,1,Senior Female (20-34),Female Senior (20-34),1,1,Sale Sizzler 1,1037
+43,00:17:20,545,Matt,Perry,Matt Perry,00:17:16,Manchester Frontrunners,1,Male,42,41,Senior Male (20-39),Male Senior (20-39),26,26,Sale Sizzler 1,1036
+44,00:17:20,709,James,Pattison,James Pattison,00:17:17,Altrincham & District Athletic Club Limited,3,Male,43,43,Vet 40,Male Vet 40,7,7,Sale Sizzler 1,1037
+45,00:17:23,575,Finlay,Day,Finlay Day,00:17:19,Sale Harriers Manchester,6,Male,44,44,Under 20,Male Under 20,4,4,Sale Sizzler 1,1039
+46,00:17:23,677,Mike,Fryer,Mike Fryer,00:17:22,Helsby Running Club,1,Male,45,46,Senior Male (20-39),Male Senior (20-39),27,27,Sale Sizzler 1,1042
+47,00:17:24,626,David,Buses,David Buses,00:17:22,Unaffiliated,46,Male,46,47,Senior Male (20-39),Male Senior (20-39),28,28,Sale Sizzler 1,1042
+48,00:17:24,511,Tom,Fordyce,Tom Fordyce,00:17:22,Sale Harriers Manchester,7,Male,47,48,Vet 45,Male Vet 45,6,6,Sale Sizzler 1,1042
+49,00:17:25,167,Kyle,Hazelaar,Kyle Hazelaar,00:17:21,Wigan Phoenix,2,Male,48,45,Vet 40,Male Vet 40,8,8,Sale Sizzler 1,1041
+50,00:17:25,532,David,Cross,David Cross,00:17:23,Stockport Harriers & AC,5,Male,49,50,Senior Male (20-39),Male Senior (20-39),29,30,Sale Sizzler 1,1043
+51,00:17:27,219,Daniel,Vasey,Daniel Vasey,00:17:23,Chorlton Runners,4,Male,50,49,Senior Male (20-39),Male Senior (20-39),30,29,Sale Sizzler 1,1043
+52,00:17:28,163,Sam,Barratt,Sam Barratt,00:17:26,Manchester Triathlon Club,1,Male,51,51,Senior Male (20-39),Male Senior (20-39),31,31,Sale Sizzler 1,1046
+53,00:17:30,154,Dan,Atkinson,Dan Atkinson,00:17:28,Trafford Athletic Club,2,Male,52,52,Vet 40,Male Vet 40,9,9,Sale Sizzler 1,1048
+54,00:17:32,182,Louis,Gorman,Louis Gorman,00:17:29,Wallasey Athletic Club,2,Male,53,53,Senior Male (20-39),Male Senior (20-39),32,32,Sale Sizzler 1,1049
+55,00:17:33,241,Sam,Caddick,Sam Caddick,00:17:29,Didsbury Runners,2,Male,54,54,Senior Male (20-39),Male Senior (20-39),33,33,Sale Sizzler 1,1049
+56,00:17:33,576,David,Hinde,David Hinde,00:17:30,Chester Triathlon Club,1,Male,55,55,Vet 40,Male Vet 40,10,10,Sale Sizzler 1,1050
+57,00:17:34,502,Mark,Collier,Mark Collier,00:17:30,Wigan Phoenix,3,Male,56,56,Vet 40,Male Vet 40,11,11,Sale Sizzler 1,1050
+58,00:17:35,666,Cian,Taylor,Cian Taylor,00:17:33,Macclesfield Harriers & AC,1,Male,57,57,Under 20,Male Under 20,5,5,Sale Sizzler 1,1053
+59,00:17:36,134,Carl,Barnes,Carl Barnes,00:17:34,Widnes Running Club,1,Male,58,58,Senior Male (20-39),Male Senior (20-39),34,34,Sale Sizzler 1,1054
+60,00:17:39,106,Dave,Almond,Dave Almond,00:17:39,Blackburn Harriers & AC,1,Male,59,59,Vet 55,Male Vet 55,1,1,Sale Sizzler 1,1059
+61,00:17:45,571,John,Rogers,John Rogers,00:17:44,Sale Harriers Manchester,8,Male,60,61,Vet 45,Male Vet 45,7,7,Sale Sizzler 1,1064
+62,00:17:46,692,Paul,Griffiths,Paul Griffiths,00:17:41,Chorlton Runners,5,Male,61,60,Vet 50,Male Vet 50,3,3,Sale Sizzler 1,1061
+63,00:17:49,177,Ian,Elsby,Ian Elsby,00:17:45,Knutsford Harriers & Athletics Club,1,Male,62,62,Vet 45,Male Vet 45,8,8,Sale Sizzler 1,1065
+64,00:17:50,216,Matthew,Moran,Matthew Moran,00:17:46,Bramhall Runners,2,Male,63,63,Vet 40,Male Vet 40,12,12,Sale Sizzler 1,1066
+65,00:17:51,105,William,Williams,William Williams,00:17:49,North Wales Road Runners,1,Male,64,66,Vet 50,Male Vet 50,4,4,Sale Sizzler 1,1069
+66,00:17:54,178,Tracy,Rogers,Tracy Rogers,00:17:51,Buckley RC,1,Female,2,2,Senior Female (20-34),Female Senior (20-34),2,2,Sale Sizzler 1,1071
+66,00:17:54,528,Chris,Miles,Chris Miles,00:17:47,Sale Harriers Manchester,9,Male,65,64,Senior Male (20-39),Male Senior (20-39),35,35,Sale Sizzler 1,1067
+68,00:17:54,193,Daniel,Hughes,Daniel Hughes,00:17:50,Unaffiliated,66,Male,66,67,Vet 40,Male Vet 40,13,13,Sale Sizzler 1,1070
+69,00:17:54,209,Dan,Martell,Dan Martell,00:17:48,Altrincham & District Athletic Club Limited,4,Male,67,65,Senior Male (20-39),Male Senior (20-39),36,36,Sale Sizzler 1,1068
+70,00:17:57,595,Gavin,Simpson,Gavin Simpson,00:17:53,Chorlton Runners,6,Male,68,68,Vet 40,Male Vet 40,14,14,Sale Sizzler 1,1073
+71,00:17:59,180,Jon,Smalley,Jon Smalley,00:17:53,Sale Harriers Manchester,10,Male,69,69,Vet 40,Male Vet 40,15,15,Sale Sizzler 1,1073
+72,00:18:00,542,Kieran,McGlade,Kieran McGlade,00:17:57,Altrincham & District Athletic Club Limited,5,Male,70,71,Senior Male (20-39),Male Senior (20-39),37,38,Sale Sizzler 1,1077
+73,00:18:01,567,Max,Letchfield,Max Letchfield,00:17:56,Chorlton Runners,7,Male,71,70,Senior Male (20-39),Male Senior (20-39),38,37,Sale Sizzler 1,1076
+74,00:18:02,552,Freya,Griffiths,Freya Griffiths,00:17:55,Trafford Athletic Club,3,Female,3,3,Under 20,Female Under 20,1,1,Sale Sizzler 1,1075
+75,00:18:03,133,Jonathan,Miles-stokes,Jonathan Miles-stokes,00:17:59,Prestwich AC,1,Male,72,72,Vet 40,Male Vet 40,16,16,Sale Sizzler 1,1079
+76,00:18:05,530,Paul,Stephens,Paul Stephens,00:18:03,Salford Harriers & AC,2,Male,73,73,Senior Male (20-39),Male Senior (20-39),39,39,Sale Sizzler 1,1083
+77,00:18:07,191,Paul,Edwards,Paul Edwards,00:18:05,Lostock AC,1,Male,74,75,Senior Male (20-39),Male Senior (20-39),40,41,Sale Sizzler 1,1085
+78,00:18:09,580,Dean,Whittle,Dean Whittle,00:18:04,Prestwich AC,2,Male,75,74,Senior Male (20-39),Male Senior (20-39),41,40,Sale Sizzler 1,1084
+79,00:18:09,720,Matthew,Higgins,Matthew Higgins,00:18:08,Salford Metropolitan AC,3,Male,76,76,Senior Male (20-39),Male Senior (20-39),42,42,Sale Sizzler 1,1088
+80,00:18:12,186,John,Lloyd,John Lloyd,00:18:10,Salford Harriers & AC,3,Male,77,78,Vet 45,Male Vet 45,9,9,Sale Sizzler 1,1090
+81,00:18:12,479,Chris,Moss,Chris Moss,00:18:09,Congleton Harriers,1,Male,78,77,Vet 50,Male Vet 50,5,5,Sale Sizzler 1,1089
+82,00:18:16,704,Russell,Price,Russell Price,00:18:11,Chorlton Runners,8,Male,79,79,Senior Male (20-39),Male Senior (20-39),43,43,Sale Sizzler 1,1091
+83,00:18:19,512,Andrew,Birch,Andrew Birch,00:18:14,Prestwich AC,3,Male,80,80,Senior Male (20-39),Male Senior (20-39),44,44,Sale Sizzler 1,1094
+84,00:18:19,518,Colin,Bishop,Colin Bishop,00:18:16,Warrington A C,1,Male,81,82,Vet 60,Male Vet 60,1,1,Sale Sizzler 1,1096
+85,00:18:21,115,Mark,Johnson,Mark Johnson,00:18:16,Sale Harriers Manchester,11,Male,82,81,Senior Male (20-39),Male Senior (20-39),45,45,Sale Sizzler 1,1096
+86,00:18:22,579,Stephen,Humphries,Stephen Humphries,00:18:18,Stockport Harriers & AC,6,Male,83,83,Vet 45,Male Vet 45,10,10,Sale Sizzler 1,1098
+87,00:18:22,572,Jess,Nugent,Jess Nugent,00:18:19,Unaffiliated,4,Female,4,4,Vet 35,Female Vet 35,1,1,Sale Sizzler 1,1099
+88,00:18:24,668,Philip,Moyle,Philip Moyle,00:18:18,Chorlton Runners,9,Male,84,84,Vet 40,Male Vet 40,17,17,Sale Sizzler 1,1098
+89,00:18:24,648,Stephen,Taylor,Stephen Taylor,00:18:19,Manchester Triathlon Club,2,Male,85,86,Vet 50,Male Vet 50,6,7,Sale Sizzler 1,1099
+90,00:18:26,510,Charlie,Batho,Charlie Batho,00:18:19,Stockport Harriers & AC,7,Male,86,85,Vet 50,Male Vet 50,7,6,Sale Sizzler 1,1099
+91,00:18:26,122,David,Watson,David Watson,00:18:21,Preston Harriers,1,Male,87,87,Vet 55,Male Vet 55,2,2,Sale Sizzler 1,1101
+92,00:18:29,535,Chris,Essex,Chris Essex,00:18:21,Unaffiliated,88,Male,88,88,Senior Male (20-39),Male Senior (20-39),46,46,Sale Sizzler 1,1101
+93,00:18:33,584,Matthew,Gittins,Matthew Gittins,00:18:25,Didsbury Runners,3,Male,89,89,Vet 40,Male Vet 40,18,18,Sale Sizzler 1,1105
+94,00:18:36,634,Louise,Whittaker,Louise Whittaker,00:18:28,Cheshire Dragons,1,Female,5,5,Vet 40,Female Vet 40,1,1,Sale Sizzler 1,1108
+95,00:18:37,645,Alia,Braithwaite,Alia Braithwaite,00:18:33,Prestwich AC,4,Female,6,6,Vet 35,Female Vet 35,2,2,Sale Sizzler 1,1113
+96,00:18:40,158,Richard,Evans,Richard Evans,00:18:37,Altrincham & District Athletic Club Limited,6,Male,90,92,Vet 55,Male Vet 55,3,3,Sale Sizzler 1,1117
+97,00:18:41,628,Gary,Milligan,Gary Milligan,00:18:36,Stockport Harriers & AC,8,Male,91,91,Vet 50,Male Vet 50,8,8,Sale Sizzler 1,1116
+98,00:18:41,496,Naomi,Kingston,Naomi Kingston,00:18:39,Blackheath & Bromley Harriers AC,1,Female,7,7,Senior Female (20-34),Female Senior (20-34),3,3,Sale Sizzler 1,1119
+99,00:18:42,102,Chris,Kershaw,Chris Kershaw,00:18:38,Bramhall Runners,3,Male,92,93,Vet 40,Male Vet 40,19,19,Sale Sizzler 1,1118
+100,00:18:43,155,Daniel,Hill,Daniel Hill,00:18:35,Trafford Athletic Club,4,Male,93,90,Vet 45,Male Vet 45,11,11,Sale Sizzler 1,1115
+101,00:18:44,244,Vic,Walsh,Vic Walsh,00:18:40,Belle Vue Racers,2,Male,94,94,Vet 40,Male Vet 40,20,20,Sale Sizzler 1,1120
+102,00:18:47,593,Martin,Dickson,Martin Dickson,00:18:43,Levenshulme Runners,1,Male,95,98,Senior Male (20-39),Male Senior (20-39),47,48,Sale Sizzler 1,1123
+103,00:18:47,667,Hamish,Child,Hamish Child,00:18:42,Trafford Athletic Club,5,Male,96,96,Senior Male (20-39),Male Senior (20-39),48,47,Sale Sizzler 1,1122
+104,00:18:48,697,Andy,Adkin,Andy Adkin,00:18:41,Chorlton Runners,10,Male,97,95,Vet 45,Male Vet 45,12,12,Sale Sizzler 1,1121
+105,00:18:48,540,David,Maher,David Maher,00:18:42,Stockport Harriers & AC,1,Male,98,97,Vet 45,Male Vet 45,13,13,Sale Sizzler 1,1122
+106,00:18:49,488,Simon,Johnson,Simon Johnson,00:18:46,Halifax Harriers & AC,2,Male,99,99,Vet 55,Male Vet 55,4,4,Sale Sizzler 1,1126
+107,00:18:49,152,Amie,Bagnall,Amie Bagnall,00:18:46,Cheshire Dragons,2,Female,8,8,Senior Female (20-34),Female Senior (20-34),4,4,Sale Sizzler 1,1126
+108,00:18:50,520,Mark,Rockliffe,Mark Rockliffe,00:18:46,Helsby Running Club,2,Male,100,100,Senior Male (20-39),Male Senior (20-39),49,49,Sale Sizzler 1,1126
+109,00:18:51,169,Qes,Hussain,Qes Hussain,00:18:49,Wilmslow Running Club,1,Male,101,102,Senior Male (20-39),Male Senior (20-39),50,50,Sale Sizzler 1,1129
+110,00:18:52,707,Paul,Connolly,Paul Connolly,00:18:48,Salford Metropolitan AC,4,Male,102,101,Vet 40,Male Vet 40,21,21,Sale Sizzler 1,1128
+111,00:18:59,527,David,Barrett,David Barrett,00:18:51,Chorlton Runners,11,Male,103,103,Senior Male (20-39),Male Senior (20-39),51,51,Sale Sizzler 1,1131
+112,00:19:01,121,Peter,O'Neill,Peter O'Neill,00:18:55,Sale Harriers Manchester,12,Male,104,105,Vet 40,Male Vet 40,22,22,Sale Sizzler 1,1135
+113,00:19:02,596,Adam,Burnett,Adam Burnett,00:18:54,Chorlton Runners,12,Male,105,104,Senior Male (20-39),Male Senior (20-39),52,52,Sale Sizzler 1,1134
+114,00:19:02,148,Julian,Rose,Julian Rose,00:18:57,Holmfirth Harriers AC,1,Male,106,107,Vet 60,Male Vet 60,2,2,Sale Sizzler 1,1137
+115,00:19:04,505,Michael,Monaghan,Michael Monaghan,00:18:59,Hyde Village Striders,1,Male,107,110,Senior Male (20-39),Male Senior (20-39),53,54,Sale Sizzler 1,1139
+116,00:19:04,116,Marcus,Taylor,Marcus Taylor,00:19:02,Horwich R M I Harriers,1,Male,108,114,Vet 50,Male Vet 50,9,9,Sale Sizzler 1,1142
+117,00:19:05,160,Kevin,Holland,Kevin Holland,00:19:01,Rochdale Harriers & AC,3,Male,109,113,Vet 40,Male Vet 40,23,24,Sale Sizzler 1,1141
+118,00:19:05,721,Matthew,Allen,Matthew Allen,00:18:57,Altrincham & District Athletic Club Limited,7,Male,110,106,Senior Male (20-39),Male Senior (20-39),54,53,Sale Sizzler 1,1137
+119,00:19:06,467,Richard,Jackson,Richard Jackson,00:18:59,Swinton Running Club,1,Male,111,109,Vet 40,Male Vet 40,24,23,Sale Sizzler 1,1139
+120,00:19:07,564,Matthew,Taylor,Matthew Taylor,00:18:58,Wilmslow Running Club,2,Male,112,108,Vet 45,Male Vet 45,14,14,Sale Sizzler 1,1138
+121,00:19:08,665,Andrew,Carlson,Andrew Carlson,00:18:59,Chorlton Runners,13,Male,113,112,Senior Male (20-39),Male Senior (20-39),55,56,Sale Sizzler 1,1139
+122,00:19:08,533,Nigel,Holmes,Nigel Holmes,00:19:03,Prestwich AC,5,Male,114,116,Vet 50,Male Vet 50,10,10,Sale Sizzler 1,1143
+123,00:19:09,128,Serena,Walker,Serena Walker,00:19:00,Wigan & District H & AC,3,Female,9,9,Vet 35,Female Vet 35,3,3,Sale Sizzler 1,1140
+124,00:19:10,509,Christopher,Topping,Christopher Topping,00:19:05,Sale Harriers Manchester,13,Male,115,118,Vet 40,Male Vet 40,25,25,Sale Sizzler 1,1145
+125,00:19:10,582,Derek,Simpson,Derek Simpson,00:19:05,Salford Metropolitan AC,5,Male,116,119,Senior Male (20-39),Male Senior (20-39),56,59,Sale Sizzler 1,1145
+126,00:19:11,603,Martin,Kelly,Martin Kelly,00:18:59,Didsbury Runners,4,Male,117,111,Senior Male (20-39),Male Senior (20-39),57,55,Sale Sizzler 1,1139
+127,00:19:11,161,Markus,Dalgaard,Markus Dalgaard,00:19:03,Wilmslow Running Club,3,Male,118,115,Senior Male (20-39),Male Senior (20-39),58,57,Sale Sizzler 1,1143
+128,00:19:13,627,Ryan,Moroney,Ryan Moroney,00:19:04,Chorlton Runners,14,Male,119,117,Senior Male (20-39),Male Senior (20-39),59,58,Sale Sizzler 1,1144
+129,00:19:16,206,Sara,Barron,Sara Barron,00:19:09,Bramhall Runners,4,Female,10,11,Vet 35,Female Vet 35,4,5,Sale Sizzler 1,1149
+130,00:19:17,144,Claire,McMurdock,Claire McMurdock,00:19:07,Stockport Harriers & AC,9,Female,11,10,Vet 35,Female Vet 35,5,4,Sale Sizzler 1,1147
+131,00:19:18,231,Pete,Ogley,Pete Ogley,00:19:10,Marple Runners,1,Male,120,121,Vet 50,Male Vet 50,11,11,Sale Sizzler 1,1150
+132,00:19:18,725,Rob,Hall,Rob Hall,00:19:06,Prestwich AC,6,Male,121,120,Senior Male (20-39),Male Senior (20-39),60,60,Sale Sizzler 1,1146
+133,00:19:23,631,Gary,Tait,Gary Tait,00:19:20,Styal Running Club,1,Male,122,125,Vet 55,Male Vet 55,5,5,Sale Sizzler 1,1160
+134,00:19:23,217,Christopher,Beck,Christopher Beck,00:19:14,Prestwich AC,7,Male,123,123,Senior Male (20-39),Male Senior (20-39),61,62,Sale Sizzler 1,1154
+135,00:19:24,698,Wayne,Shaw,Wayne Shaw,00:19:12,Sale Harriers Manchester,14,Male,124,122,Senior Male (20-39),Male Senior (20-39),62,61,Sale Sizzler 1,1152
+136,00:19:26,157,Matt,Fisher,Matt Fisher,00:19:19,Wigan Phoenix,4,Male,125,124,Vet 40,Male Vet 40,26,26,Sale Sizzler 1,1159
+137,00:19:28,633,James,Hendry,James Hendry,00:19:21,Liverpool Running Club,1,Male,126,127,Senior Male (20-39),Male Senior (20-39),63,64,Sale Sizzler 1,1161
+138,00:19:30,168,Vicky,Bryant,Vicky Bryant,00:19:22,Wigan & District H & AC,4,Female,12,12,Vet 40,Female Vet 40,2,2,Sale Sizzler 1,1162
+139,00:19:30,717,Rich,McVey,Rich McVey,00:19:21,Chorlton Runners,15,Male,127,126,Senior Male (20-39),Male Senior (20-39),64,63,Sale Sizzler 1,1161
+140,00:19:33,675,Chris,Levick,Chris Levick,00:19:28,Helsby Running Club,3,Male,128,128,Vet 40,Male Vet 40,27,27,Sale Sizzler 1,1168
+141,00:19:34,475,Andrew,Biddle,Andrew Biddle,00:19:28,Penny Lane Striders,2,Male,129,129,Vet 45,Male Vet 45,15,15,Sale Sizzler 1,1168
+142,00:19:36,712,David,Cornes,David Cornes,00:19:29,Salford Metropolitan AC,6,Male,130,130,Senior Male (20-39),Male Senior (20-39),65,65,Sale Sizzler 1,1169
+143,00:19:38,225,Thomas,Stuart,Thomas Stuart,00:19:30,Unaffiliated,131,Male,131,131,Senior Male (20-39),Male Senior (20-39),66,66,Sale Sizzler 1,1170
+144,00:19:40,454,Richard,Oreilly,Richard Oreilly,00:19:35,Horwich R M I Harriers,2,Male,132,134,Vet 55,Male Vet 55,6,6,Sale Sizzler 1,1175
+145,00:19:41,543,Iain,Wedge,Iain Wedge,00:19:37,Chester Triathlon Club,2,Male,133,135,Vet 50,Male Vet 50,12,12,Sale Sizzler 1,1177
+146,00:19:42,111,Michael,McLaughlin,Michael McLaughlin,00:19:39,Styal Running Club,2,Male,134,137,Vet 40,Male Vet 40,28,28,Sale Sizzler 1,1179
+147,00:19:43,131,Paul,Minton,Paul Minton,00:19:33,East Cheshire Harriers & Tameside AC,2,Male,135,132,Senior Male (20-39),Male Senior (20-39),67,67,Sale Sizzler 1,1173
+148,00:19:45,678,Damon,Storer,Damon Storer,00:19:34,Bramhall Runners,5,Male,136,133,Senior Male (20-39),Male Senior (20-39),68,68,Sale Sizzler 1,1174
+149,00:19:46,166,Craig,Weedall,Craig Weedall,00:19:38,Unaffiliated,137,Male,137,136,Vet 45,Male Vet 45,16,16,Sale Sizzler 1,1178
+150,00:19:47,702,Chris,Turner,Chris Turner,00:19:43,Styal Running Club,3,Male,138,141,Senior Male (20-39),Male Senior (20-39),69,70,Sale Sizzler 1,1183
+151,00:19:48,171,Alison,Roberts,Alison Roberts,00:19:41,Lymm Runners,1,Female,13,15,Vet 40,Female Vet 40,3,4,Sale Sizzler 1,1181
+152,00:19:48,506,Claire,Demaine Farrell,Claire Demaine Farrell,00:19:41,Lymm Runners,2,Female,14,14,Vet 40,Female Vet 40,4,3,Sale Sizzler 1,1181
+152,00:19:48,732,Tekin,Dogruk,Tekin Dogruk,00:19:45,Altrincham & District Athletic Club Limited,8,Male,139,143,Vet 40,Male Vet 40,29,29,Sale Sizzler 1,1185
+154,00:19:49,165,Sarah,Cleal,Sarah Cleal,00:19:42,Bramhall Runners,6,Female,15,16,Vet 35,Female Vet 35,6,6,Sale Sizzler 1,1182
+155,00:19:50,664,Laura,Martin,Laura Martin,00:19:39,Sale Harriers Manchester,15,Female,16,13,Senior Female (20-34),Female Senior (20-34),5,5,Sale Sizzler 1,1179
+156,00:19:52,585,John,Roche,John Roche,00:19:42,Chorlton Runners,16,Male,140,139,Vet 45,Male Vet 45,17,17,Sale Sizzler 1,1182
+157,00:19:53,212,Jo,Dawes,Jo Dawes,00:19:46,Unaffiliated,17,Female,17,18,Vet 35,Female Vet 35,7,7,Sale Sizzler 1,1186
+158,00:19:53,107,Mo,Sayed,Mo Sayed,00:19:44,Chorlton Runners,17,Male,141,142,Senior Male (20-39),Male Senior (20-39),70,71,Sale Sizzler 1,1184
+158,00:19:53,196,Sam,Evans,Sam Evans,00:19:43,Bramhall Runners,7,Male,141,140,Senior Male (20-39),Male Senior (20-39),70,69,Sale Sizzler 1,1183
+160,00:19:54,653,Hannah,Richardson,Hannah Richardson,00:19:43,Unaffiliated,18,Female,18,17,Senior Female (20-34),Female Senior (20-34),6,6,Sale Sizzler 1,1183
+161,00:19:56,574,Glen,Gandy,Glen Gandy,00:19:42,Manchester Harriers & AC,1,Male,143,138,Vet 55,Male Vet 55,7,7,Sale Sizzler 1,1182
+162,00:19:56,118,Zoe,Storr,Zoe Storr,00:19:48,Trafford Athletic Club,6,Female,19,19,Vet 35,Female Vet 35,8,8,Sale Sizzler 1,1188
+163,00:19:59,649,Anne,Chinoy,Anne Chinoy,00:19:51,Sale Harriers Manchester,16,Female,20,20,Vet 50,Female Vet 50,1,1,Sale Sizzler 1,1191
+164,00:19:59,175,Simon,Greenhalgh,Simon Greenhalgh,00:19:52,Didsbury Runners,5,Male,144,145,Vet 45,Male Vet 45,18,18,Sale Sizzler 1,1192
+165,00:19:59,514,Carl,Yu,Carl Yu,00:19:54,Liverpool Running Club,2,Male,145,147,Vet 45,Male Vet 45,19,20,Sale Sizzler 1,1194
+166,00:20:00,228,Tim,Billington,Tim Billington,00:19:48,Wilmslow Running Club,4,Male,146,144,Vet 60,Male Vet 60,3,3,Sale Sizzler 1,1188
+167,00:20:06,127,Barry,Fenton,Barry Fenton,00:19:53,Manchester Harriers & AC,2,Male,147,146,Vet 45,Male Vet 45,20,19,Sale Sizzler 1,1193
+168,00:20:06,208,Gordon,Nicoll,Gordon Nicoll,00:20:00,Altrincham & District Athletic Club Limited,9,Male,148,149,Vet 60,Male Vet 60,4,4,Sale Sizzler 1,1200
+169,00:20:08,673,Amy,McConville,Amy McConville,00:19:56,Styal Running Club,4,Female,21,21,Vet 40,Female Vet 40,5,5,Sale Sizzler 1,1196
+170,00:20:08,153,Emma,Crowe,Emma Crowe,00:20:03,Cheshire Dragons,3,Female,22,22,Vet 50,Female Vet 50,2,2,Sale Sizzler 1,1203
+171,00:20:10,694,David,Hughes,David Hughes,00:20:02,Salford Metropolitan AC,7,Male,149,152,Vet 45,Male Vet 45,21,21,Sale Sizzler 1,1202
+172,00:20:10,521,Lyall,Mew,Lyall Mew,00:20:00,Burnden Road Runners,1,Male,150,150,Senior Male (20-39),Male Senior (20-39),72,73,Sale Sizzler 1,1200
+173,00:20:11,647,John,Waiting,John Waiting,00:19:58,Marple Runners,2,Male,151,148,Senior Male (20-39),Male Senior (20-39),73,72,Sale Sizzler 1,1198
+174,00:20:14,713,Girish,Patel,Girish Patel,00:20:06,Salford Metropolitan AC,8,Male,152,153,Vet 55,Male Vet 55,8,8,Sale Sizzler 1,1206
+175,00:20:14,716,Tom,Almond,Tom Almond,00:20:06,Chorlton Runners,18,Male,153,155,Senior Male (20-39),Male Senior (20-39),74,76,Sale Sizzler 1,1206
+176,00:20:15,200,Peter,Holmes,Peter Holmes,00:20:06,Chorlton Runners,19,Male,154,154,Senior Male (20-39),Male Senior (20-39),75,75,Sale Sizzler 1,1206
+177,00:20:15,220,George,Steele,George Steele,00:20:01,Unaffiliated,155,Male,155,151,Senior Male (20-39),Male Senior (20-39),76,74,Sale Sizzler 1,1201
+178,00:20:17,213,Bryony,Stanbridge,Bryony Stanbridge,00:20:04,Didsbury Runners,6,Female,23,23,Senior Female (20-34),Female Senior (20-34),7,7,Sale Sizzler 1,1204
+179,00:20:18,562,Aisha,Anwar,Aisha Anwar,00:20:05,Didsbury Runners,7,Female,24,24,Senior Female (20-34),Female Senior (20-34),8,8,Sale Sizzler 1,1205
+180,00:20:21,714,Rob,Sheldon,Rob Sheldon,00:20:07,Glossopdale Harriers,1,Male,156,156,Vet 45,Male Vet 45,22,22,Sale Sizzler 1,1207
+181,00:20:25,172,Sophie,Ralston,Sophie Ralston,00:20:17,Trafford Athletic Club,7,Female,25,25,Senior Female (20-34),Female Senior (20-34),9,9,Sale Sizzler 1,1217
+182,00:20:25,229,Daniel,Leng,Daniel Leng,00:20:11,Macclesfield Harriers & AC,2,Male,157,157,Senior Male (20-39),Male Senior (20-39),77,77,Sale Sizzler 1,1211
+183,00:20:27,568,Ben,Green,Ben Green,00:20:18,Rossendale Harriers & AC,1,Male,158,158,Senior Male (20-39),Male Senior (20-39),78,78,Sale Sizzler 1,1218
+184,00:20:31,452,Rosie,Bradshaw,Rosie Bradshaw,00:20:18,Stockport Harriers & AC,10,Female,26,26,Under 20,Female Under 20,2,2,Sale Sizzler 1,1218
+185,00:20:32,537,Lee,Marks,Lee Marks,00:20:24,Salford Metropolitan AC,9,Male,159,159,Vet 40,Male Vet 40,30,30,Sale Sizzler 1,1224
+186,00:20:32,688,Lizzie,Gibson,Lizzie Gibson,00:20:25,Bramhall Runners,8,Female,27,29,Senior Female (20-34),Female Senior (20-34),10,11,Sale Sizzler 1,1225
+187,00:20:34,546,Gareth,Maher,Gareth Maher,00:20:28,Bramhall Runners,9,Male,160,163,Vet 40,Male Vet 40,31,32,Sale Sizzler 1,1228
+188,00:20:35,515,Charlotte,Atkinson,Charlotte Atkinson,00:20:25,Blackburn Harriers & AC,2,Female,28,28,Senior Female (20-34),Female Senior (20-34),11,10,Sale Sizzler 1,1225
+189,00:20:35,486,Amelia,Williams,Amelia Williams,00:20:28,Trafford Athletic Club,8,Female,29,30,Senior Female (20-34),Female Senior (20-34),12,12,Sale Sizzler 1,1228
+190,00:20:36,114,Andy,Thomas,Andy Thomas,00:20:27,Sandbach Striders,1,Male,161,162,Vet 60,Male Vet 60,5,5,Sale Sizzler 1,1227
+191,00:20:36,538,Katalin,Szabo,Katalin Szabo,00:20:22,Chorlton Runners,20,Female,30,27,Vet 45,Female Vet 45,1,1,Sale Sizzler 1,1222
+192,00:20:37,470,Darren,Cottier,Darren Cottier,00:20:26,Cheshire Dragons,4,Male,162,160,Vet 50,Male Vet 50,13,13,Sale Sizzler 1,1226
+193,00:20:38,719,Damien,Healey,Damien Healey,00:20:27,Unaffiliated,163,Male,163,161,Vet 40,Male Vet 40,32,31,Sale Sizzler 1,1227
+194,00:20:38,553,Graham,Harrison,Graham Harrison,00:20:32,Altrincham & District Athletic Club Limited,10,Male,164,165,Vet 60,Male Vet 60,6,6,Sale Sizzler 1,1232
+195,00:20:43,234,Colin,Caisley,Colin Caisley,00:20:37,Wilmslow Running Club,5,Male,165,167,Vet 50,Male Vet 50,14,15,Sale Sizzler 1,1237
+196,00:20:43,583,Adam,Smith,Adam Smith,00:20:29,Chorlton Runners,21,Male,166,164,Senior Male (20-39),Male Senior (20-39),79,79,Sale Sizzler 1,1229
+197,00:20:45,460,Natalie,Vose,Natalie Vose,00:20:36,Wigan & District H & AC,5,Female,31,31,Vet 35,Female Vet 35,9,9,Sale Sizzler 1,1236
+198,00:20:48,507,Fred,Lucas,Fred Lucas,00:20:38,Ellesmere Port RC,1,Male,167,169,Vet 40,Male Vet 40,33,33,Sale Sizzler 1,1238
+199,00:20:49,478,Joanne,Moss,Joanne Moss,00:20:39,Sandbach Striders,2,Female,32,32,Vet 50,Female Vet 50,3,3,Sale Sizzler 1,1239
+200,00:20:49,557,Paul,Stevenson,Paul Stevenson,00:20:40,Salford Metropolitan AC,10,Male,168,170,Vet 60,Male Vet 60,7,7,Sale Sizzler 1,1240
+201,00:20:49,609,Andrew,Robertson,Andrew Robertson,00:20:37,Chorlton Runners,22,Male,169,168,Senior Male (20-39),Male Senior (20-39),80,80,Sale Sizzler 1,1237
+202,00:20:50,587,Anjum,Ahmed,Anjum Ahmed,00:20:35,Rochdale Harriers & AC,4,Male,170,166,Vet 50,Male Vet 50,15,14,Sale Sizzler 1,1235
+203,00:20:51,650,Juliet,Smith,Juliet Smith,00:20:47,Rochdale Harriers & AC,5,Female,33,35,Vet 45,Female Vet 45,2,2,Sale Sizzler 1,1247
+204,00:20:54,474,Isabel,Pearson,Isabel Pearson,00:20:43,Trafford Athletic Club,9,Female,34,33,Under 20,Female Under 20,3,3,Sale Sizzler 1,1243
+205,00:20:54,544,Josie,Maley-Jones,Josie Maley-Jones,00:20:43,Astley & Tyldesley Road Runners,1,Female,35,34,Vet 40,Female Vet 40,6,6,Sale Sizzler 1,1243
+206,00:20:58,522,Malcolm,Orrell,Malcolm Orrell,00:20:44,Salford Metropolitan AC,11,Male,171,171,Senior Male (20-39),Male Senior (20-39),81,81,Sale Sizzler 1,1244
+207,00:21:00,151,Robin,Beaumont,Robin Beaumont,00:20:48,Unaffiliated,172,Male,172,173,Vet 55,Male Vet 55,9,9,Sale Sizzler 1,1248
+208,00:21:01,598,Rick,Mason,Rick Mason,00:20:51,Unaffiliated,173,Male,173,174,Vet 50,Male Vet 50,16,16,Sale Sizzler 1,1251
+209,00:21:02,683,Jamie,Soul,Jamie Soul,00:20:47,Didsbury Runners,8,Male,174,172,Senior Male (20-39),Male Senior (20-39),82,82,Sale Sizzler 1,1247
+210,00:21:12,523,Clare,Wareing,Clare Wareing,00:21:00,Unaffiliated,36,Female,36,36,Vet 40,Female Vet 40,7,7,Sale Sizzler 1,1260
+211,00:21:13,555,Georgina,Walker,Georgina Walker,00:21:03,Lymm Runners,3,Female,37,37,Vet 45,Female Vet 45,3,3,Sale Sizzler 1,1263
+212,00:21:13,142,Mike,Tattersall,Mike Tattersall,00:21:04,Prestwich AC,8,Male,175,177,Vet 60,Male Vet 60,8,8,Sale Sizzler 1,1264
+213,00:21:18,189,Lexy,Denton,Lexy Denton,00:21:06,Styal Running Club,5,Female,38,38,Vet 40,Female Vet 40,8,8,Sale Sizzler 1,1266
+214,00:21:19,243,Douglas,Holligan,Douglas Holligan,00:21:03,Didsbury Runners,9,Male,176,176,Senior Male (20-39),Male Senior (20-39),83,83,Sale Sizzler 1,1263
+215,00:21:19,205,Andrew,Oldham,Andrew Oldham,00:21:08,Unaffiliated,177,Male,177,178,Vet 40,Male Vet 40,34,35,Sale Sizzler 1,1268
+216,00:21:21,652,Peter,Dean,Peter Dean,00:21:02,Stockport Harriers & AC,11,Male,178,175,Vet 40,Male Vet 40,35,34,Sale Sizzler 1,1262
+217,00:21:21,503,Adam,Stirling,Adam Stirling,00:21:10,Royton Road Runners,1,Male,179,181,Senior Male (20-39),Male Senior (20-39),84,84,Sale Sizzler 1,1270
+218,00:21:22,549,Alexa,Besnard,Alexa Besnard,00:21:12,Chorlton Runners,23,Female,39,40,Vet 40,Female Vet 40,9,9,Sale Sizzler 1,1272
+219,00:21:24,570,Andrew,Taylor,Andrew Taylor,00:21:08,Belle Vue Racers,3,Male,180,179,Vet 45,Male Vet 45,23,23,Sale Sizzler 1,1268
+220,00:21:24,693,Fae,Garland,Fae Garland,00:21:10,Lymm Runners,4,Female,40,39,Vet 35,Female Vet 35,10,10,Sale Sizzler 1,1270
+221,00:21:25,560,Ray,O'Keefe,Ray O'Keefe,00:21:09,Macclesfield Harriers & AC,3,Male,181,180,Vet 55,Male Vet 55,10,10,Sale Sizzler 1,1269
+222,00:21:27,516,Stephen,Green,Stephen Green,00:21:16,Clayton-le-Moors Harriers,1,Male,182,182,Vet 65,Male Vet 65,1,1,Sale Sizzler 1,1276
+223,00:21:32,737,William,Franks,William Franks,00:21:22,Chorlton Runners,24,Male,183,183,Senior Male (20-39),Male Senior (20-39),85,85,Sale Sizzler 1,1282
+224,00:21:32,547,Rebecca,Hall,Rebecca Hall,00:21:20,Didsbury Runners,10,Female,41,41,Senior Female (20-34),Female Senior (20-34),13,13,Sale Sizzler 1,1280
+225,00:21:34,465,Adam,Powell,Adam Powell,00:21:23,Congleton Harriers,2,Male,184,184,Senior Male (20-39),Male Senior (20-39),86,86,Sale Sizzler 1,1283
+226,00:21:35,468,Chris,Charnley,Chris Charnley,00:21:25,Horwich R M I Harriers,3,Male,185,186,Vet 45,Male Vet 45,24,24,Sale Sizzler 1,1285
+227,00:21:40,501,Michael,Donigan,Michael Donigan,00:21:28,Swinton Running Club,2,Male,186,188,Vet 40,Male Vet 40,36,36,Sale Sizzler 1,1288
+228,00:21:42,539,Jacqueline,Cordingley,Jacqueline Cordingley,00:21:36,Sale Harriers Manchester,17,Female,42,45,Vet 60,Female Vet 60,1,1,Sale Sizzler 1,1296
+229,00:21:43,176,Debra,Jones,Debra Jones,00:21:32,Wigan Phoenix,5,Female,43,42,Vet 50,Female Vet 50,4,4,Sale Sizzler 1,1292
+230,00:21:44,203,Neil,Stockley,Neil Stockley,00:21:31,Styal Running Club,6,Male,187,190,Vet 55,Male Vet 55,11,12,Sale Sizzler 1,1291
+231,00:21:46,672,Katherine,Barker,Katherine Barker,00:21:36,Sale Harriers Manchester,18,Female,44,44,Vet 35,Female Vet 35,11,11,Sale Sizzler 1,1296
+232,00:21:46,110,Paul,Collins,Paul Collins,00:21:30,Swinton Running Club,3,Male,188,189,Vet 55,Male Vet 55,12,11,Sale Sizzler 1,1290
+233,00:21:48,589,Iain,Borsbey,Iain Borsbey,00:21:36,Rock Salt Runners,1,Male,189,193,Vet 45,Male Vet 45,25,26,Sale Sizzler 1,1296
+234,00:21:48,224,Matthew,Joslin,Matthew Joslin,00:21:25,Didsbury Runners,11,Male,190,185,Vet 50,Male Vet 50,17,17,Sale Sizzler 1,1285
+235,00:21:48,136,Amanda,Armstrong,Amanda Armstrong,00:21:34,Prestwich AC,9,Female,45,43,Vet 40,Female Vet 40,10,10,Sale Sizzler 1,1294
+236,00:21:51,126,Chris,Sewart,Chris Sewart,00:21:34,Manchester Harriers & AC,3,Male,191,192,Vet 45,Male Vet 45,26,25,Sale Sizzler 1,1294
+237,00:21:53,187,Tom,Beasant,Tom Beasant,00:21:27,Dark Peak Fell Runners,1,Male,192,187,Senior Male (20-39),Male Senior (20-39),87,87,Sale Sizzler 1,1287
+238,00:21:54,473,Ruth Elizabeth,Murdoch,Ruth Elizabeth Murdoch,00:21:39,Stockport Harriers & AC,12,Female,46,46,Vet 45,Female Vet 45,4,4,Sale Sizzler 1,1299
+239,00:21:55,129,Jayne,Barlow,Jayne Barlow,00:21:43,Wigan & District H & AC,6,Female,47,48,Vet 50,Female Vet 50,5,5,Sale Sizzler 1,1303
+240,00:21:56,642,Ashley,McDonald,Ashley McDonald,00:21:33,Chorlton Runners,25,Male,193,191,Senior Male (20-39),Male Senior (20-39),88,88,Sale Sizzler 1,1293
+241,00:21:56,556,Siobhan,Egerton,Siobhan Egerton,00:21:44,Altrincham & District Athletic Club Limited,11,Female,48,49,Vet 35,Female Vet 35,12,12,Sale Sizzler 1,1304
+242,00:21:57,239,Guy,Grundy,Guy Grundy,00:21:43,Sale Harriers Manchester,19,Male,194,195,Vet 45,Male Vet 45,27,27,Sale Sizzler 1,1303
+243,00:21:58,457,Peter,Pickwell,Peter Pickwell,00:21:43,Altrincham & District Athletic Club Limited,12,Male,195,196,Vet 70,Male Vet 70,1,1,Sale Sizzler 1,1303
+244,00:22:00,588,John,Morris,John Morris,00:21:39,Sale Harriers Manchester,20,Male,196,194,Vet 40,Male Vet 40,37,37,Sale Sizzler 1,1299
+245,00:22:00,104,Tony,Mc Donald,Tony Mc Donald,00:21:50,Stockport Harriers & AC,13,Male,197,199,Vet 65,Male Vet 65,2,2,Sale Sizzler 1,1310
+245,00:22:00,586,Alec,Roberts,Alec Roberts,00:21:47,Chorlton Runners,26,Male,197,197,Senior Male (20-39),Male Senior (20-39),89,89,Sale Sizzler 1,1307
+247,00:22:02,577,Adrian,Hazlehurst,Adrian Hazlehurst,00:21:52,Hyde Village Striders,2,Male,199,200,Vet 40,Male Vet 40,38,38,Sale Sizzler 1,1312
+248,00:22:03,238,Kerry,Burke,Kerry Burke,00:21:42,Didsbury Runners,12,Female,49,47,Senior Female (20-34),Female Senior (20-34),14,14,Sale Sizzler 1,1302
+249,00:22:05,670,Kim,Watling,Kim Watling,00:21:52,Helsby Running Club,4,Female,50,50,Vet 40,Female Vet 40,11,11,Sale Sizzler 1,1312
+250,00:22:07,237,Mark,Morgan,Mark Morgan,00:21:47,Unaffiliated,200,Male,200,198,Senior Male (20-39),Male Senior (20-39),90,90,Sale Sizzler 1,1307
+251,00:22:09,492,Helen,Nation,Helen Nation,00:21:56,Swinton Running Club,4,Female,51,51,Vet 45,Female Vet 45,5,5,Sale Sizzler 1,1316
+252,00:22:12,170,Huma,Rahman,Huma Rahman,00:21:58,Wilmslow Running Club,6,Female,52,52,Vet 50,Female Vet 50,6,6,Sale Sizzler 1,1318
+253,00:22:21,682,Julia,Reynolds,Julia Reynolds,00:22:14,Sale Harriers Manchester,21,Female,53,55,Vet 50,Female Vet 50,7,7,Sale Sizzler 1,1334
+254,00:22:23,245,Eleanor,Devlin,Eleanor Devlin,00:22:09,Chorlton Runners,27,Female,54,53,Senior Female (20-34),Female Senior (20-34),15,15,Sale Sizzler 1,1329
+255,00:22:23,730,Michael,Dolan,Michael Dolan,00:22:14,Unaffiliated,201,Male,201,203,Vet 55,Male Vet 55,13,13,Sale Sizzler 1,1334
+256,00:22:28,569,Dmitry,Rozhdestvenskiy,Dmitry Rozhdestvenskiy,00:22:11,Sale Harriers Manchester,22,Male,202,201,Senior Male (20-39),Male Senior (20-39),91,91,Sale Sizzler 1,1331
+257,00:22:29,676,Eloise,Billington,Eloise Billington,00:22:17,Chorlton Runners,28,Female,55,57,Senior Female (20-34),Female Senior (20-34),16,17,Sale Sizzler 1,1337
+258,00:22:30,113,Mark,Bradshaw,Mark Bradshaw,00:22:15,Unaffiliated,203,Male,203,204,Vet 50,Male Vet 50,18,18,Sale Sizzler 1,1335
+259,00:22:30,701,Jody,Brooks,Jody Brooks,00:22:14,Unaffiliated,56,Female,56,54,Senior Female (20-34),Female Senior (20-34),17,16,Sale Sizzler 1,1334
+260,00:22:31,480,Lauren,Marsden,Lauren Marsden,00:22:15,Swinton Running Club,5,Female,57,56,Vet 50,Female Vet 50,8,8,Sale Sizzler 1,1335
+261,00:22:31,536,Andrew,Mayes,Andrew Mayes,00:22:12,Unaffiliated,204,Male,204,202,Vet 45,Male Vet 45,28,28,Sale Sizzler 1,1332
+262,00:22:35,736,Laura,Murphy,Laura Murphy,00:22:23,Bramhall Runners,10,Female,58,58,Vet 40,Female Vet 40,12,12,Sale Sizzler 1,1343
+263,00:22:37,591,Kylie,Fedtschyschak,Kylie Fedtschyschak,00:22:24,Chorlton Runners,29,Female,59,59,Vet 35,Female Vet 35,13,13,Sale Sizzler 1,1344
+264,00:22:39,735,Paul,Gorman,Paul Gorman,00:22:19,Unaffiliated,205,Male,205,205,Vet 45,Male Vet 45,29,29,Sale Sizzler 1,1339
+265,00:22:43,248,Rebecca,Williams,Rebecca Williams,00:22:30,Chorlton Runners,30,Female,60,61,Senior Female (20-34),Female Senior (20-34),18,18,Sale Sizzler 1,1350
+266,00:22:44,644,Mark,Seed,Mark Seed,00:22:33,Salford Harriers & AC,4,Male,206,209,Vet 55,Male Vet 55,14,15,Sale Sizzler 1,1353
+267,00:22:46,221,Mark,Brett,Mark Brett,00:22:29,Running Bear,1,Male,207,207,Vet 55,Male Vet 55,15,14,Sale Sizzler 1,1349
+268,00:22:46,636,Kerrie,Wood Doyle,Kerrie Wood Doyle,00:22:31,Stockport Harriers & AC,1,Female,61,62,Vet 55,Female Vet 55,1,1,Sale Sizzler 1,1351
+269,00:22:47,508,Louise,Ambler,Louise Ambler,00:22:28,Trafford Athletic Club,10,Female,62,60,Vet 35,Female Vet 35,14,14,Sale Sizzler 1,1348
+270,00:22:48,519,Chris,Burrows,Chris Burrows,00:22:28,Unaffiliated,208,Male,208,206,Vet 45,Male Vet 45,30,30,Sale Sizzler 1,1348
+271,00:22:49,711,Kate,Stuart,Kate Stuart,00:22:36,Altrincham & District Athletic Club Limited,13,Female,63,65,Senior Female (20-34),Female Senior (20-34),19,19,Sale Sizzler 1,1356
+272,00:22:51,458,Yvonne,Neary,Yvonne Neary,00:22:34,Lymm Runners,5,Female,64,64,Vet 55,Female Vet 55,2,2,Sale Sizzler 1,1354
+273,00:22:51,495,Jenn,Lutton,Jenn Lutton,00:22:33,Winston Runners,1,Female,65,63,Vet 40,Female Vet 40,13,13,Sale Sizzler 1,1353
+274,00:22:53,529,Matthew Anthony,Condron,Matthew Anthony Condron,00:22:36,Swinton Running Club,6,Male,209,212,Vet 45,Male Vet 45,31,31,Sale Sizzler 1,1356
+275,00:22:53,715,Angus,Rose,Angus Rose,00:22:34,Stockport Harriers & AC,14,Male,210,210,Vet 55,Male Vet 55,16,16,Sale Sizzler 1,1354
+276,00:22:54,663,James,Golden,James Golden,00:22:35,Winston Runners,2,Male,211,211,Vet 55,Male Vet 55,17,17,Sale Sizzler 1,1355
+277,00:22:54,211,Beverley,Jackson,Beverley Jackson,00:22:44,Altrincham & District Athletic Club Limited,14,Female,66,67,Vet 55,Female Vet 55,3,4,Sale Sizzler 1,1364
+278,00:22:55,729,Robert,Skilbeck,Robert Skilbeck,00:22:33,Didsbury Runners,13,Male,212,208,Vet 50,Male Vet 50,19,19,Sale Sizzler 1,1353
+279,00:23:00,103,Jennie,Ransome,Jennie Ransome,00:22:37,Rochdale Harriers & AC,6,Female,67,66,Vet 55,Female Vet 55,4,3,Sale Sizzler 1,1357
+280,00:23:04,554,Emma,Nunnerley,Emma Nunnerley,00:22:48,Unaffiliated,68,Female,68,69,Vet 45,Female Vet 45,6,6,Sale Sizzler 1,1368
+281,00:23:05,525,Rob,Kirkbride,Rob Kirkbride,00:22:45,Styal Running Club,7,Male,213,213,Vet 50,Male Vet 50,20,20,Sale Sizzler 1,1365
+282,00:23:06,147,Patrick,O'Brien,Patrick O'Brien,00:22:50,Belle Vue Racers,4,Male,214,215,Vet 65,Male Vet 65,3,3,Sale Sizzler 1,1370
+283,00:23:07,242,Wayne,Wardle,Wayne Wardle,00:22:50,Unaffiliated,215,Male,215,216,Vet 45,Male Vet 45,32,32,Sale Sizzler 1,1370
+284,00:23:07,201,Josh,Coupe,Josh Coupe,00:22:45,Prestwich AC,10,Male,216,214,Senior Male (20-39),Male Senior (20-39),92,92,Sale Sizzler 1,1365
+285,00:23:09,232,Sally,Barnes,Sally Barnes,00:22:45,Prestwich AC,11,Female,69,68,Vet 35,Female Vet 35,15,15,Sale Sizzler 1,1365
+286,00:23:13,601,Tom,Millington,Tom Millington,00:22:51,Unaffiliated,217,Male,217,217,Senior Male (20-39),Male Senior (20-39),93,93,Sale Sizzler 1,1371
+287,00:23:13,674,Adelle,Holt,Adelle Holt,00:22:52,Styal Running Club,8,Female,70,70,Vet 40,Female Vet 40,14,14,Sale Sizzler 1,1372
+288,00:23:15,641,Daniel,Shannon,Daniel Shannon,00:23:06,Run Sandymoor,1,Male,218,220,Senior Male (20-39),Male Senior (20-39),94,94,Sale Sizzler 1,1386
+289,00:23:16,181,Max,Thickett,Max Thickett,00:22:55,Stockport Tri Club,1,Male,219,218,Vet 50,Male Vet 50,21,21,Sale Sizzler 1,1375
+290,00:23:16,451,Andy,Gibson,Andy Gibson,00:22:57,Unaffiliated,220,Male,220,219,Vet 60,Male Vet 60,9,9,Sale Sizzler 1,1377
+291,00:23:20,630,Josh,Palmer,Josh Palmer,00:23:06,Burnden Road Runners,2,Male,221,221,Senior Male (20-39),Male Senior (20-39),95,95,Sale Sizzler 1,1386
+292,00:23:21,149,Joanne,Lott,Joanne Lott,00:23:02,Trafford Athletic Club,11,Female,71,71,Vet 55,Female Vet 55,5,5,Sale Sizzler 1,1382
+293,00:23:30,500,Jamie,Bradbury,Jamie Bradbury,00:23:13,Lymm Runners,6,Male,222,223,Vet 45,Male Vet 45,33,34,Sale Sizzler 1,1393
+294,00:23:31,718,Samuel,Crawshaw,Samuel Crawshaw,00:23:10,Levenshulme Runners,2,Male,223,222,Vet 45,Male Vet 45,34,33,Sale Sizzler 1,1390
+295,00:23:33,606,Richard,Horwood,Richard Horwood,00:23:18,Unaffiliated,224,Male,224,224,Vet 50,Male Vet 50,22,22,Sale Sizzler 1,1398
+296,00:23:34,685,Jennie,Heggie,Jennie Heggie,00:23:11,Unaffiliated,72,Female,72,72,Vet 45,Female Vet 45,7,7,Sale Sizzler 1,1391
+297,00:23:37,559,Eleanor,Taylor,Eleanor Taylor,00:23:17,Unaffiliated,73,Female,73,73,Senior Female (20-34),Female Senior (20-34),20,20,Sale Sizzler 1,1397
+298,00:23:40,464,Kate,Mildenhall,Kate Mildenhall,00:23:26,Prestwich AC,12,Female,74,77,Vet 40,Female Vet 40,15,15,Sale Sizzler 1,1406
+299,00:23:41,194,Sarah,Foreman,Sarah Foreman,00:23:25,Swinton Running Club,7,Female,75,76,Senior Female (20-34),Female Senior (20-34),21,22,Sale Sizzler 1,1405
+300,00:23:44,463,Alison,Vesey,Alison Vesey,00:23:25,Altrincham & District Athletic Club Limited,15,Female,76,75,Vet 60,Female Vet 60,2,2,Sale Sizzler 1,1405
+301,00:23:45,524,Sara,Harris,Sara Harris,00:23:27,Styal Running Club,9,Female,77,78,Vet 50,Female Vet 50,9,9,Sale Sizzler 1,1407
+302,00:23:45,218,Rebecca,McNair,Rebecca McNair,00:23:21,Chorlton Runners,31,Female,78,74,Senior Female (20-34),Female Senior (20-34),22,21,Sale Sizzler 1,1401
+303,00:23:48,632,Angela,Oldham,Angela Oldham,00:23:29,East Cheshire Harriers & Tameside AC,3,Female,79,79,Vet 70,Female Vet 70,1,1,Sale Sizzler 1,1409
+304,00:23:51,204,Dave,Murray,Dave Murray,00:23:37,Chorlton Runners,32,Male,225,226,Vet 40,Male Vet 40,39,39,Sale Sizzler 1,1417
+305,00:23:54,132,Mark,Charlton,Mark Charlton,00:23:38,Burnden Road Runners,3,Male,226,227,Vet 40,Male Vet 40,40,40,Sale Sizzler 1,1418
+306,00:23:57,156,Jason,Clift-Jones,Jason Clift-Jones,00:23:34,Lonely Goat RC,1,Male,227,225,Senior Male (20-39),Male Senior (20-39),96,96,Sale Sizzler 1,1414
+307,00:24:03,599,Gareth,Crook,Gareth Crook,00:23:39,Unaffiliated,228,Male,228,228,Vet 45,Male Vet 45,35,35,Sale Sizzler 1,1419
+308,00:24:04,198,Sue,Banfield,Sue Banfield,00:23:41,Unaffiliated,80,Female,80,80,Vet 55,Female Vet 55,6,6,Sale Sizzler 1,1421
+309,00:24:05,120,Duncan,Shuttleworth,Duncan Shuttleworth,00:23:41,Prestwich AC,13,Male,229,229,Vet 60,Male Vet 60,10,10,Sale Sizzler 1,1421
+310,00:24:05,728,David,Thomas,David Thomas,00:23:43,Didsbury Runners,14,Male,230,230,Vet 45,Male Vet 45,36,36,Sale Sizzler 1,1423
+311,00:24:07,640,Hayley,Shiach,Hayley Shiach,00:23:41,Unaffiliated,81,Female,81,81,Vet 40,Female Vet 40,16,16,Sale Sizzler 1,1421
+312,00:24:11,731,Georgie,Gillott,Georgie Gillott,00:23:49,Didsbury Runners,15,Female,82,82,Senior Female (20-34),Female Senior (20-34),23,23,Sale Sizzler 1,1429
+313,00:24:18,222,Sally,Wood,Sally Wood,00:23:57,Manchester YMCA Harriers,1,Female,83,83,Vet 35,Female Vet 35,16,16,Sale Sizzler 1,1437
+314,00:24:21,145,Rachel,Garner,Rachel Garner,00:24:00,Prestwich AC,14,Female,84,84,Vet 50,Female Vet 50,10,10,Sale Sizzler 1,1440
+315,00:24:25,638,Damian,Utton,Damian Utton,00:23:59,Altrincham & District Athletic Club Limited,16,Male,231,231,Vet 55,Male Vet 55,18,18,Sale Sizzler 1,1439
+316,00:24:25,123,Caroline,Baba,Caroline Baba,00:24:06,Manchester Harriers & AC,4,Female,85,86,Vet 40,Female Vet 40,17,17,Sale Sizzler 1,1446
+317,00:24:27,162,Jane,Hughes,Jane Hughes,00:24:05,Styal Running Club,10,Female,86,85,Vet 50,Female Vet 50,11,11,Sale Sizzler 1,1445
+318,00:24:28,608,Francine,Edwards,Francine Edwards,00:24:21,Prestwich AC,15,Female,87,90,Vet 50,Female Vet 50,12,13,Sale Sizzler 1,1461
+319,00:24:29,471,Andrew,Cole,Andrew Cole,00:24:14,East Cheshire Harriers & Tameside AC,4,Male,232,234,Vet 55,Male Vet 55,19,19,Sale Sizzler 1,1454
+320,00:24:30,493,Catherine,Jackson,Catherine Jackson,00:24:08,Styal Running Club,11,Female,88,87,Vet 50,Female Vet 50,13,12,Sale Sizzler 1,1448
+321,00:24:31,481,Andy,Nugent,Andy Nugent,00:24:06,Prestwich AC,16,Male,233,232,Vet 45,Male Vet 45,37,37,Sale Sizzler 1,1446
+322,00:24:32,723,Richard,Wilshaw,Richard Wilshaw,00:24:13,Dragons Running Club (Sale),1,Male,234,233,Senior Male (20-39),Male Senior (20-39),97,97,Sale Sizzler 1,1453
+323,00:24:33,604,Laura,Parkin,Laura Parkin,00:24:09,Didsbury Runners,16,Female,89,88,Vet 45,Female Vet 45,8,8,Sale Sizzler 1,1449
+324,00:24:39,461,Nick,Ham,Nick Ham,00:24:26,Glossopdale Harriers,2,Male,235,235,Vet 55,Male Vet 55,20,20,Sale Sizzler 1,1466
+325,00:24:39,734,Eddie,Edwards,Eddie Edwards,00:24:32,Prestwich AC,17,Male,236,239,Vet 55,Male Vet 55,21,21,Sale Sizzler 1,1472
+326,00:24:40,214,Mike,Lloyd,Mike Lloyd,00:24:26,Didsbury Runners,17,Male,237,236,Senior Male (20-39),Male Senior (20-39),98,98,Sale Sizzler 1,1466
+327,00:24:45,658,Ruth,Beresford,Ruth Beresford,00:24:20,Trafford Athletic Club,12,Female,90,89,Vet 35,Female Vet 35,17,17,Sale Sizzler 1,1460
+328,00:24:46,710,Debbie,McEvoy,Debbie McEvoy,00:24:30,Sale Harriers Manchester,23,Female,91,91,Vet 50,Female Vet 50,14,14,Sale Sizzler 1,1470
+329,00:24:52,494,Ian,Morton,Ian Morton,00:24:28,Styal Running Club,12,Male,238,237,Vet 60,Male Vet 60,11,11,Sale Sizzler 1,1468
+330,00:24:53,469,Stacey,Clark,Stacey Clark,00:24:34,Widnes Wasps Ladies R C,1,Female,92,92,Senior Female (20-34),Female Senior (20-34),24,24,Sale Sizzler 1,1474
+331,00:24:55,227,Gary,Marshall,Gary Marshall,00:24:32,Rochdale Harriers & AC,7,Male,239,240,Senior Male (20-39),Male Senior (20-39),99,99,Sale Sizzler 1,1472
+332,00:24:57,179,Kim,Rogers,Kim Rogers,00:24:37,Bramhall Runners,11,Female,93,93,Senior Female (20-34),Female Senior (20-34),25,25,Sale Sizzler 1,1477
+332,00:24:57,517,Brad,Ehlen,Brad Ehlen,00:24:30,Northwich Running Club,1,Male,240,238,Vet 50,Male Vet 50,23,23,Sale Sizzler 1,1470
+334,00:25:02,159,Lindsey,Crombleholme,Lindsey Crombleholme,00:24:45,Stockport Harriers & AC,15,Female,94,94,Vet 50,Female Vet 50,15,15,Sale Sizzler 1,1485
+335,00:25:12,233,Sophie,Weaver,Sophie Weaver,00:24:58,Chorlton Runners,33,Female,95,96,Senior Female (20-34),Female Senior (20-34),26,27,Sale Sizzler 1,1498
+336,00:25:21,733,Samina,Ahmad,Samina Ahmad,00:25:05,Mile Shy Club,1,Female,96,99,Vet 50,Female Vet 50,16,17,Sale Sizzler 1,1505
+337,00:25:24,223,Melanie,Jones,Melanie Jones,00:24:58,Prestwich AC,18,Female,97,97,Vet 50,Female Vet 50,17,16,Sale Sizzler 1,1498
+338,00:25:24,602,Maire,McHugh,Maire McHugh,00:24:57,Didsbury Runners,18,Female,98,95,Senior Female (20-34),Female Senior (20-34),27,26,Sale Sizzler 1,1497
+339,00:25:30,462,Rebecca,Pugh,Rebecca Pugh,00:25:03,Wigan & District H & AC,7,Female,99,98,Senior Female (20-34),Female Senior (20-34),28,28,Sale Sizzler 1,1503
+340,00:25:31,124,Lindsey,Farrelly,Lindsey Farrelly,00:25:05,Manchester Harriers & AC,5,Female,100,100,Vet 45,Female Vet 45,9,9,Sale Sizzler 1,1505
+341,00:25:33,130,Helen,Todd,Helen Todd,00:25:15,Stockport Harriers & AC,16,Female,101,102,Vet 65,Female Vet 65,1,1,Sale Sizzler 1,1515
+342,00:25:34,199,Eddy,Kirby,Eddy Kirby,00:25:01,Unaffiliated,241,Male,241,241,Senior Male (20-39),Male Senior (20-39),100,100,Sale Sizzler 1,1501
+343,00:25:39,185,Angela,Bamford,Angela Bamford,00:25:12,Mile Shy Club,2,Female,102,101,Vet 55,Female Vet 55,7,7,Sale Sizzler 1,1512
+344,00:25:50,531,Catherine,Kilbane,Catherine Kilbane,00:25:27,Unaffiliated,103,Female,103,103,Vet 35,Female Vet 35,18,18,Sale Sizzler 1,1527
+345,00:25:52,660,Anthony,Hillier,Anthony Hillier,00:25:40,Glossopdale Harriers,3,Male,242,244,Vet 75,Male Vet 75,1,1,Sale Sizzler 1,1540
+346,00:26:01,726,Katherine,Murray,Katherine Murray,00:25:30,Chorlton Runners,34,Female,104,104,Vet 35,Female Vet 35,19,19,Sale Sizzler 1,1530
+347,00:26:04,210,Stephen,Brown,Stephen Brown,00:25:37,Didsbury Runners,19,Male,243,243,Vet 55,Male Vet 55,22,22,Sale Sizzler 1,1537
+348,00:26:06,689,Graham,Lockett,Graham Lockett,00:25:48,Chorlton Runners,35,Male,244,245,Vet 55,Male Vet 55,23,23,Sale Sizzler 1,1548
+349,00:26:07,195,Edward,Taylor,Edward Taylor,00:25:35,Knutsford Tri Club,1,Male,245,242,Vet 50,Male Vet 50,24,24,Sale Sizzler 1,1535
+350,00:26:09,551,Tilly,Hardwick,Tilly Hardwick,00:25:45,Prestwich AC,19,Female,105,105,Senior Female (20-34),Female Senior (20-34),29,29,Sale Sizzler 1,1545
+351,00:26:22,246,Kate,Brown,Kate Brown,00:25:55,Didsbury Runners,20,Female,106,108,Vet 40,Female Vet 40,18,19,Sale Sizzler 1,1555
+352,00:26:25,700,Andrea,Williams,Andrea Williams,00:25:54,Chorlton Runners,36,Female,107,107,Vet 55,Female Vet 55,8,8,Sale Sizzler 1,1554
+353,00:26:25,573,Helen,Shan,Helen Shan,00:25:52,Unaffiliated,108,Female,108,106,Vet 40,Female Vet 40,19,18,Sale Sizzler 1,1552
+354,00:26:30,695,Geoffrey,Beattie,Geoffrey Beattie,00:26:19,Sale Harriers Manchester,24,Male,246,249,Vet 70,Male Vet 70,2,2,Sale Sizzler 1,1579
+355,00:26:33,548,Alice,Doherty,Alice Doherty,00:26:16,Chorlton Runners,37,Female,109,110,Senior Female (20-34),Female Senior (20-34),30,30,Sale Sizzler 1,1576
+356,00:26:34,558,Hannah,Tomlinson,Hannah Tomlinson,00:25:59,Marple Runners,3,Female,110,109,Vet 35,Female Vet 35,20,20,Sale Sizzler 1,1559
+357,00:26:37,226,David,Kerfoot,David Kerfoot,00:25:49,Preston Harriers,2,Male,247,246,Vet 65,Male Vet 65,4,4,Sale Sizzler 1,1549
+358,00:26:41,184,Farouk,Vawda,Farouk Vawda,00:26:13,Belle Vue Racers,5,Male,248,247,Vet 55,Male Vet 55,24,24,Sale Sizzler 1,1573
+359,00:26:44,696,Martyn,Cassidy,Martyn Cassidy,00:26:19,RunThrough North,1,Male,249,248,Vet 45,Male Vet 45,38,38,Sale Sizzler 1,1579
+360,00:26:50,541,Jayne,Speers,Jayne Speers,00:26:18,Manchester Triathlon Club,3,Female,111,111,Vet 40,Female Vet 40,20,20,Sale Sizzler 1,1578
+361,00:26:52,600,Stephen,Jewell,Stephen Jewell,00:26:33,Dragons Running Club (Sale),2,Male,250,251,Vet 50,Male Vet 50,25,25,Sale Sizzler 1,1593
+361,00:26:52,654,Louise,Warwick,Louise Warwick,00:26:27,Prestwich AC,20,Female,112,112,Vet 40,Female Vet 40,21,21,Sale Sizzler 1,1587
+363,00:26:54,143,Ray,Dalby,Ray Dalby,00:26:23,Rochdale Harriers & AC,8,Male,251,250,Vet 65,Male Vet 65,5,5,Sale Sizzler 1,1583
+364,00:26:59,164,Sarah,Roberts,Sarah Roberts,00:26:28,Manchester Triathlon Club,4,Female,113,113,Senior Female (20-34),Female Senior (20-34),31,31,Sale Sizzler 1,1588
+365,00:27:00,691,Janet,Hardwick,Janet Hardwick,00:26:34,Prestwich AC,21,Female,114,114,Vet 65,Female Vet 65,2,2,Sale Sizzler 1,1594
+366,00:27:11,484,Wellington,Chingwaro,Wellington Chingwaro,00:26:36,Unaffiliated,252,Male,252,252,Vet 45,Male Vet 45,39,39,Sale Sizzler 1,1596
+367,00:27:19,459,Barry,Chambers,Barry Chambers,00:26:46,Vale Royal AC,5,Male,253,253,Vet 70,Male Vet 70,3,3,Sale Sizzler 1,1606
+368,00:27:22,706,Ann,Richardson,Ann Richardson,00:26:47,Marple Runners,4,Female,115,115,Vet 35,Female Vet 35,21,21,Sale Sizzler 1,1607
+369,00:27:24,150,Linzi,Lloyd-Henry,Linzi Lloyd-Henry,00:26:59,Prestwich AC,22,Female,116,117,Vet 60,Female Vet 60,3,3,Sale Sizzler 1,1619
+370,00:27:25,513,Alison,Barbuti,Alison Barbuti,00:26:54,Chorlton Runners,38,Female,117,116,Vet 45,Female Vet 45,10,10,Sale Sizzler 1,1614
+371,00:27:30,607,Richard,Parry,Richard Parry,00:26:58,Altrincham & District Athletic Club Limited,17,Male,254,254,Vet 40,Male Vet 40,41,41,Sale Sizzler 1,1618
+372,00:27:34,140,Jason,Middleton,Jason Middleton,00:27:14,Horwich R M I Harriers,4,Male,255,255,Vet 50,Male Vet 50,26,26,Sale Sizzler 1,1634
+373,00:27:36,550,Caroline,Johnston,Caroline Johnston,00:27:11,PAC,1,Female,118,118,Vet 50,Female Vet 50,18,18,Sale Sizzler 1,1631
+374,00:27:43,655,Jane,Dennison,Jane Dennison,00:27:11,Mile Shy Club,3,Female,119,119,Vet 40,Female Vet 40,22,22,Sale Sizzler 1,1631
+375,00:27:44,230,Michael,Eakin,Michael Eakin,00:27:31,Penny Lane Striders,3,Male,256,257,Vet 65,Male Vet 65,6,7,Sale Sizzler 1,1651
+376,00:28:01,690,Helen,Veitch,Helen Veitch,00:27:37,Prestwich AC,23,Female,120,121,Vet 65,Female Vet 65,3,3,Sale Sizzler 1,1657
+377,00:28:02,671,John,Waterton,John Waterton,00:27:27,Didsbury Runners,21,Male,257,256,Vet 65,Male Vet 65,7,6,Sale Sizzler 1,1647
+378,00:28:03,578,Emma,Carter,Emma Carter,00:27:33,Chorlton Runners,39,Female,121,120,Vet 40,Female Vet 40,23,23,Sale Sizzler 1,1653
+379,00:28:04,101,Alan,Jenkinson,Alan Jenkinson,00:27:46,Styal Running Club,13,Male,258,259,Vet 75,Male Vet 75,2,2,Sale Sizzler 1,1666
+380,00:28:05,247,Catherine,Daly,Catherine Daly,00:27:53,East Cheshire Harriers & Tameside AC,5,Female,122,124,Vet 45,Female Vet 45,11,11,Sale Sizzler 1,1673
+381,00:28:08,472,Mark,Ardern,Mark Ardern,00:27:32,Marple Runners,5,Male,259,258,Vet 55,Male Vet 55,25,25,Sale Sizzler 1,1652
+382,00:28:09,477,Alicia,Knight,Alicia Knight,00:27:40,Swinton Running Club,8,Female,123,122,Senior Female (20-34),Female Senior (20-34),32,32,Sale Sizzler 1,1660
+383,00:28:16,190,Allison,Kirkbride,Allison Kirkbride,00:27:42,Styal Running Club,14,Female,124,123,Vet 50,Female Vet 50,19,19,Sale Sizzler 1,1662
+384,00:28:24,491,Graham,Kitchen,Graham Kitchen,00:28:05,Dragons Running Club (Sale),3,Male,260,260,Vet 60,Male Vet 60,12,12,Sale Sizzler 1,1685
+385,00:28:34,207,Katie,Meredith,Katie Meredith,00:28:16,Chorlton Runners,40,Female,125,125,Vet 55,Female Vet 55,9,9,Sale Sizzler 1,1696
+386,00:28:59,497,Lucy,Hughes,Lucy Hughes,00:28:35,Styal Running Club,15,Female,126,126,Senior Female (20-34),Female Senior (20-34),33,33,Sale Sizzler 1,1715
+387,00:29:05,453,David,Cross,David Cross,00:28:30,Liverpool Running Club,3,Male,261,261,Senior Male (20-39),Male Senior (20-39),101,101,Sale Sizzler 1,1710
+388,00:29:16,594,Emma,Corbett,Emma Corbett,00:28:46,Chorlton Runners,41,Female,127,127,Senior Female (20-34),Female Senior (20-34),34,34,Sale Sizzler 1,1726
+389,00:29:25,724,Jenny,Mcclelland,Jenny Mcclelland,00:28:59,Lymm Runners,7,Female,128,128,Vet 50,Female Vet 50,20,20,Sale Sizzler 1,1739
+390,00:29:26,146,Nichola,Cooke,Nichola Cooke,00:29:00,Prestwich AC,24,Female,129,129,Vet 40,Female Vet 40,24,24,Sale Sizzler 1,1740
+391,00:29:34,662,Ann,McLaughlin,Ann McLaughlin,00:29:06,Manchester Harriers & AC,6,Female,130,130,Vet 60,Female Vet 60,4,4,Sale Sizzler 1,1746
+392,00:29:40,643,Gary,Coxon,Gary Coxon,00:29:26,East Cheshire Harriers & Tameside AC,6,Male,262,262,Vet 65,Male Vet 65,8,8,Sale Sizzler 1,1766
+393,00:29:59,526,Ian,Feingold,Ian Feingold,00:29:32,Prestwich AC,25,Male,263,263,Vet 55,Male Vet 55,26,26,Sale Sizzler 1,1772
+394,00:30:11,466,Katherine,Jackson,Katherine Jackson,00:29:41,Swinton Running Club,9,Female,131,132,Vet 40,Female Vet 40,25,25,Sale Sizzler 1,1781
+395,00:30:15,174,Wendy,Darling,Wendy Darling,00:29:40,Unaffiliated,132,Female,132,131,Vet 45,Female Vet 45,12,12,Sale Sizzler 1,1780
+396,00:30:16,566,Deborah,Beresford,Deborah Beresford,00:29:48,Manchester Harriers & AC,7,Female,133,133,Vet 55,Female Vet 55,10,10,Sale Sizzler 1,1788
+397,00:30:22,597,Julie,Goreham,Julie Goreham,00:29:51,Unaffiliated,134,Female,134,134,Vet 40,Female Vet 40,26,26,Sale Sizzler 1,1791
+398,00:30:30,109,Elliot,Brady,Elliot Brady,00:30:01,Manchester Harriers & AC,8,Male,264,264,Under 20,Male Under 20,6,6,Sale Sizzler 1,1801
+398,00:30:30,188,Caroline,Lacey,Caroline Lacey,00:30:00,Manchester Harriers & AC,8,Female,135,135,Vet 55,Female Vet 55,11,11,Sale Sizzler 1,1800
+400,00:30:39,661,Bernadette,Gordon,Bernadette Gordon,00:30:06,Unaffiliated,136,Female,136,136,Vet 45,Female Vet 45,13,13,Sale Sizzler 1,1806
+401,00:31:18,173,Anna Lindsay,Purvis,Anna Lindsay Purvis,00:30:51,Bramhall Runners,12,Female,137,137,Vet 40,Female Vet 40,27,27,Sale Sizzler 1,1851
+402,00:31:34,590,Kirstie,Hesketh,Kirstie Hesketh,00:31:02,Mile Shy Club,4,Female,138,138,Vet 45,Female Vet 45,14,14,Sale Sizzler 1,1862
+403,00:31:38,592,Laura,Moss,Laura Moss,00:31:24,Unaffiliated,139,Female,139,139,Senior Female (20-34),Female Senior (20-34),35,35,Sale Sizzler 1,1884
+404,00:31:52,680,John,Delany,John Delany,00:31:22,Unaffiliated,265,Male,265,265,Vet 75,Male Vet 75,3,3,Sale Sizzler 1,1882
+405,00:32:02,135,Kate,Shannon,Kate Shannon,00:31:30,Run Sandymoor,2,Female,140,140,Vet 35,Female Vet 35,22,22,Sale Sizzler 1,1890
+406,00:32:15,687,Arnold,Bradshaw,Arnold Bradshaw,00:31:47,Manchester Harriers & AC,10,Male,266,266,Vet 75,Male Vet 75,4,4,Sale Sizzler 1,1907
+407,00:32:34,139,Janet,Middleton,Janet Middleton,00:32:09,Horwich R M I Harriers,5,Female,141,141,Vet 50,Female Vet 50,21,21,Sale Sizzler 1,1929
+408,00:32:58,708,Liz,Hutchinson,Liz Hutchinson,00:32:40,Unaffiliated,142,Female,142,143,Vet 55,Female Vet 55,12,13,Sale Sizzler 1,1960
+409,00:33:00,565,Linda,Cross,Linda Cross,00:32:28,Manchester Harriers & AC,11,Female,143,142,Vet 55,Female Vet 55,13,12,Sale Sizzler 1,1948
+410,00:33:31,534,Stephen,Davies,Stephen Davies,00:32:55,Wigan & District H & AC,8,Male,267,267,Vet 45,Male Vet 45,40,40,Sale Sizzler 1,1975
+411,00:33:36,659,Glennis,Hillier,Glennis Hillier,00:33:01,Unaffiliated,144,Female,144,144,Vet 75,Female Vet 75,1,1,Sale Sizzler 1,1981
+412,00:33:44,727,Nicola,Sansom,Nicola Sansom,00:33:14,Chorlton Runners,42,Female,145,145,Vet 35,Female Vet 35,23,23,Sale Sizzler 1,1994
+413,00:35:12,639,Paul,Taylor,Paul Taylor,00:34:38,Oldham & Royton H & AC,1,Male,268,268,Vet 65,Male Vet 65,9,9,Sale Sizzler 1,2078
+414,00:36:02,681,Susan,Pickering,Susan Pickering,00:35:23,Wigan & District H & AC,9,Female,146,146,Vet 45,Female Vet 45,15,15,Sale Sizzler 1,2123
+415,00:41:41,117,Judith,Simpson,Judith Simpson,00:41:04,Unaffiliated,147,Female,147,147,Vet 40,Female Vet 40,28,28,Sale Sizzler 1,2464
+416,00:42:12,485,John,Barlow,John Barlow,00:41:35,Prestwich AC,26,Male,269,269,Vet 70,Male Vet 70,4,4,Sale Sizzler 1,2495
