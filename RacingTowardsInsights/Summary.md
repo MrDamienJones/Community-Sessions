@@ -22,4 +22,4 @@ Join me if you're a data professional, a budding analyst or a sports enthusiast!
 
 # Presentations
 
-- 2023-10-27: [New Stars Of Data (Online)](https://www.newstarsofdata.com/6th-edition/) [Video (YouTube)](https://www.youtube.com/watch?v=XAIvUW5c9ww&t=63s&ab_channel=DataGrillen)
+- 2023-10-27: [New Stars Of Data (Online)](https://www.newstarsofdata.com/6th-edition/) | [Video (YouTube)](https://www.youtube.com/watch?v=XAIvUW5c9ww&t=63s&ab_channel=DataGrillen)
