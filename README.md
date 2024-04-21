@@ -22,8 +22,9 @@ Plus other relevant files.
 
 ### Navigation
 
-- **Top level** folders identify the session **title**.
-- **Sub-Folders** hold objects used when a session has been **presented**.
+**Top level** folders identify the session **title**.
+
+**Sub-Folders** hold objects used when a session has been **presented**.
 
 To avoid repetition, new Sub-Folders are only created if objects *change*. 
 
