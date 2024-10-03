@@ -23,3 +23,4 @@ Ideal for Data, DevOps, and Architecture professionals, this session offers prac
 - 2024-04-24: [AWS Summit London (In-Person)](https://aws.amazon.com/events/summits/emea/london/)
 - 2024-07-11: [AWS UG Liverpool (In-Person)](https://www.meetup.com/aws-user-group-liverpool/events/300055911)
 - 2024-09-26: [AWS Community Summit (In-Person)](https://www.comsum.co.uk/)
+- 2024-10-03: [AWS Community Day NL (In-Person)](https://awscommunityday.nl/2024/)
