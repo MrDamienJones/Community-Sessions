@@ -1,16 +1,30 @@
 # Community Sessions
+This repo contains resources for sessions I've presented.  
 
-Resources for sessions I've presented.
+It supports:
 
-## Description
+- [amazonwebshark's Speaker section.](https://amazonwebshark.com/speaking/)
+- [My Sessionize profile](https://sessionize.com/damienjones/)
+- [My Speaker Deck profile](https://speakerdeck.com/mrdamienjones/)
 
-This repo is intended for sharing resources used in my community sessions.
+## Contents
+Sessions are listed alphabetically:
 
-## Getting Started
+- **Building And Automating Serverless Auto-Scaling Data Pipelines In AWS** | First presented 2024 | [Sessionize Abstract](https://sessionize.com/s/damienjones/building-and-automating-serverless-auto-scaling-da/92780)
+- **Racing Towards Insights** | First presented 2023 | [Sessionize Abstract](https://sessionize.com/s/damienjones/racing-towards-insights-analysing-the-sale-sizzler/74895)
+
+## Details
+This section contains details about the repo objects.
+
+### Navigation
+**Top Level Folders** identify the session **title**.
+> Schema: Session Title
+
+**Subfolders** identity instances of a session being **presented**.
+> Schema: Date of presentation; Venue
 
 ### Contents
-
-This repo holds resources used in the construction and delivery of sessions I have produced.  Objects may include:
+Each subfolder holds resources used in the delivery of sessions.  Objects may include:
 
 - Code
 - Data (where sharable and in compliance with GDPR etc)
@@ -19,30 +33,6 @@ This repo holds resources used in the construction and delivery of sessions I ha
 - Third Party Resources
 
 Plus other relevant files.
-
-### Navigation
-
-**Top level** folders identify the session **title**.
-
-**Sub-Folders** hold objects used when a session has been **presented**.
-
-To avoid repetition, new Sub-Folders are only created if objects *change*. 
-
-E.G. if a talk is presented in:
-
-- 2023-11
-- 2024-05
-- 2024-07 
-- 2024-11 
-
-And the 2024-11 presentation needs new text, there will be folders for:
-
-- 2023-11
-- 2024-11
-
-The prior 2024 dates will reference the **2023-11** folder.  
-
-> If in doubt, the most recent folder should be most suitable.
 
 ## License
 
