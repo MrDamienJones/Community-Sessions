@@ -20,6 +20,7 @@ Ideal for Data, DevOps, and Architecture professionals, this session offers prac
 
 # Presentations
 
+- 2024-11-20: [AWS UG Manchester (In-Person)](https://www.meetup.com/aws-user-group-manchester/events/303939007)
 - 2024-10-08: [AWS UG Leeds (In-Person)](https://www.meetup.com/aws-leeds-user-group/events/303716817)
 - 2024-10-03: [AWS Community Day NL (In-Person)](https://awscommunityday.nl/2024/)
 - 2024-09-26: [AWS Community Summit (In-Person)](https://www.comsum.co.uk/)
