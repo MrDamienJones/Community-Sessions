@@ -26,4 +26,5 @@ This session provides valuable insights for implementing scalable, event-based s
 
 # Presentations
 
+- 2025-04-24: [London DevOps #90  (In-Person)](https://www.meetup.com/london-devops/events/307024833/)
 - 2025-04-02: [DevOps Manchester 38 x DTX Manchester (In-Person)](https://www.meetup.com/devops-manchester/events/306571213/)
