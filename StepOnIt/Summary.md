@@ -29,3 +29,6 @@ This session provides valuable insights for implementing scalable, event-based s
 - 2025-06-05: [AWS UG Leeds (In-Person)](https://www.meetup.com/aws-leeds-user-group/events/308090815/)
 - 2025-04-24: [London DevOps #90  (In-Person)](https://www.meetup.com/london-devops/events/307024833/)
 - 2025-04-02: [DevOps Manchester 38 x DTX Manchester (In-Person)](https://www.meetup.com/devops-manchester/events/306571213/)
+- 2025-09-18: AWS Cloud Day Dublin
+- 2025-09-25: AWS Community Day NL
+- 2025-09-26: AWS Community Summit
