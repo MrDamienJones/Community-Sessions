@@ -30,5 +30,5 @@ This session provides valuable insights for implementing scalable, event-based s
 - 2025-04-24: [London DevOps #90  (In-Person)](https://www.meetup.com/london-devops/events/307024833/)
 - 2025-04-02: [DevOps Manchester 38 x DTX Manchester (In-Person)](https://www.meetup.com/devops-manchester/events/306571213/)
 - 2025-09-18: [AWS Cloud Day Dublin (In-Person)](https://aws.amazon.com/events/cloud-days/dublin/)
-- 2025-09-25: [AWS Community Day NL (In-Person)](https://awscommunityday.nl/2025/)
-- 2025-09-26: [AWS Community Summit (In-Person)](https://www.comsum.co.uk/comsum-2025)
+- 2025-09-24: [AWS Community Day NL (In-Person)](https://awscommunityday.nl/2025/)
+- 2025-09-25: [AWS Community Summit (In-Person)](https://www.comsum.co.uk/comsum-2025)
