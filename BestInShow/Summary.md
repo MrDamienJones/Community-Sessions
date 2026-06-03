@@ -16,4 +16,5 @@ Whether you're a startup founder or an enterprise dev, you'll walk away with a b
 
 # Presentations
 
+- 2026-06-04: [AWS Community Summit Birmingham (In-Person)](https://www.comsum.co.uk/birmingham-26)
 - 2026-04-22: [AWS Summit London (In-Person)](https://aws.amazon.com/events/summits/london/)

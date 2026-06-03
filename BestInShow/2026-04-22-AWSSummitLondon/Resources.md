@@ -5,17 +5,25 @@ This page contains resources used in my **Best In Show** session.
 
 # Links
 
+[Wolfie & Friends](https://wolfieandfriends.co.uk/)
+
 ## Example Repo
 
 - [BestInShow Demo Repo](https://github.com/MrDamienJones/BestInShowDemo)
 - [BestInShow Demo Repo Kiro Docs](https://github.com/MrDamienJones/BestInShowDemo/tree/main/.kiro/specs/booking-integration)
 
+## Demo Prompt
+
+""I want to integrate booking functionality into this site.  I want advice on whether I should build my own booking platform with AWS services, or use an existing service.  Is this, then help me choose between Cal.com, Calendly and Cronofy.  Add unit tests.  Ask anything you need."
+
 ## Blog
+
 - [amazonwebshark: Home](https://amazonwebshark.com/)
 - [amazonwebshark: Links](https://amazonwebshark.com/links/)
 - [amazonwebshark: Projects](https://amazonwebshark.com/projects/)
 
 ## AWS Services
+
 - [Kiro](https://kiro.dev/)
 - [Kiro FAQs](https://kiro.dev/faq/)
 - [Kiro Models](https://kiro.dev/docs/models/)
